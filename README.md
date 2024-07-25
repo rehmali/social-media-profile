@@ -1,6 +1,6 @@
 # Frontend Mentor - Blog preview card solution
 
-This is a solution to the [Social Links Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/bSocial Links Profile). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
+This is a solution to the [Social Links Profile challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/Social Links Profile). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
 
 ## Table of contents
 
@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: https://github.com/rehmali/
-- Live Site URL: https://rehmali.github.io//
+- Solution URL: https://github.com/rehmali/social-media-profile
+- Live Site URL: https://rehmali.github.io/social-media-profile
 
 ## My process
   = First I organized HTML Code , using Tags, Classes and Ids
